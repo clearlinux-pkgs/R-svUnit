@@ -4,7 +4,7 @@
 #
 Name     : R-svUnit
 Version  : 0.7.12
-Release  : 9
+Release  : 10
 URL      : https://cran.r-project.org/src/contrib/svUnit_0.7-12.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/svUnit_0.7-12.tar.gz
 Summary  : SciViews GUI API - Unit testing
