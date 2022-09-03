@@ -4,7 +4,7 @@
 #
 Name     : R-svUnit
 Version  : 1.0.6
-Release  : 34
+Release  : 35
 URL      : https://cran.r-project.org/src/contrib/svUnit_1.0.6.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/svUnit_1.0.6.tar.gz
 Summary  : 'SciViews' - Unit, Integration and System Testing
